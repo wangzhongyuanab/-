@@ -1,0 +1,5 @@
+
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(Ò®ÜÄ8–áĞÂÊ-
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "format".(ã³åØıÿÿÿÿ8ÀªÕÂÊ-
+Nsquid:S1172"+Remove this unused method parameter "date".(ûğˆıÿÿÿÿ8ùØÂÊ-
+€squid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "parse".(ªİ¢şÿÿÿÿ8îØÚÂÊ-

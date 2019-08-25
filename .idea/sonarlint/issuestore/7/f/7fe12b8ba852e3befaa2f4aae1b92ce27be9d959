@@ -1,0 +1,5 @@
+
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "orders".(»ŞÚÆüÿÿÿÿ8´§ú£Ë-
+esquid:UselessImportCheck":Remove this unused import 'com.ssm.service.OrdersService'.(ñš¯ô8Õ¤ù£Ë-
+rsquid:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(‹‹¥®úÿÿÿÿ8‘¬Ì•Ë-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ñÈ
